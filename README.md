@@ -1,4 +1,4 @@
-# 504 Blog LLM — Blog automatisé par IA
+# 504 Blog LLM — Blog automatisé par IA 
 
 Plateforme de blog automatisée qui agrège des articles d'actualité depuis des flux RSS francophones, les réécrit à l'aide de l'IA (Google Gemini), génère du contenu de fact-checking (debunk), et publie le tout sur un blog stylisé.
 
